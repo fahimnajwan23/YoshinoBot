@@ -1,25 +1,24 @@
 {
-  "ownerNumber": "62xxx@s.whatsapp.net",
+  "ownerNumber": "60192427032@s.whatsapp.net",
   "ownerName": "rc",
-  "botName": "Yoshino Bot",
+  "botName": "Megalondon",
   "packname": "follow",
   "author": "@riycoders",
-  "pathimg": "./media/yoshino.jpg",
   "apikey": {
     "caliph": "caliphkey",
     "miko": "Mikokey"
   },
   "hmm": {
-    "yt": "https://youtube.com/@riycoders",
-    "ig": "https://instagram.com/riycoders",
-    "linkmenu": "https://chat.whatsapp.com/KShSydBXuPBIx0eeWgl7gY"
+    "yt": "https://youtube.com/@",
+    "ig": "https://instagram.com/",
+    "linkmenu": "https://chat.whatsapp.com/"
   },
   "donasi": {
 	"dana": "081575886399",
 	"gopay": "081575886399"
   },
   "gamewaktu": 90,
-  "limitCount": 25,
+  "limitCount": 9999,
   "gcount": {
 	"prem": 35,
 	"user": 15
